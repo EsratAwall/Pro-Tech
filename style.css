@@ -147,7 +147,7 @@ font-size: 490%;
 }
 @media screen and (min-width:200px) and (max-width: 576px){
   .caruimage{
-      height:330px;
+      height:380px;
   }
 }
 @media screen and (min-width: 577px) and (max-width: 991px){
