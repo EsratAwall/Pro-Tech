@@ -23,7 +23,10 @@ color: #4d90b2 !important;
     width: 200px !important;
   }
 }
-
+.nav-gmail{
+  text-decoration: none;
+  color: white;
+}
 /* .btn-contact{
   background-color: black;
   color: white;
